@@ -1,0 +1,88 @@
+body{
+    color:blanchedalmond;
+    font-family: 'Urbanist';
+    background-color: black;
+    letter-spacing: 1px;
+}
+.welcome{
+    font-size: 200px;
+    font-family: Pixelify Sans;
+    letter-spacing: 1px;
+    opacity: 50%;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border-spacing: 20px;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    color:blanchedalmond;
+    font-size: 25px;
+    margin: 600px;
+    padding: 60px;
+    white-space: nowrap;
+}
+.right{
+    color: rgb(255, 255, 255);
+    font-size: 96px;
+}
+.description{
+    font-weight:200;
+    font-size: 20px;
+    font-family: Urbanist;
+    margin-left: 45px;
+    margin-right: 45px;
+    letter-spacing: 1px;
+    line-height: 130%;
+    max-width: 700px;
+}
+video{
+    border-radius: 50%;
+}
+.fab.fa-telegram {
+    color: blanchedalmond;
+    opacity: 70%;
+}
+.fab.fa-github{
+    color: blanchedalmond;
+    opacity: 70%;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: inherit;
+}
+.nenastiana{
+   font-size: 20px;
+   text-align: right;
+   margin-right: 65px;
+   margin-top: 65px;
+   opacity: 70%;
+}
+.table-container {
+    margin-left: 700px;
+}
+.bio{
+    width: 50%;
+    margin-left: 170px;
+    font-weight: 400;
+}
+.quotes{
+        font-style: italic; 
+        padding: 10px; 
+        border-left: 1px solid blanchedalmond; 
+        max-width: 800px;
+        opacity: 70%;
+        margin: 100px 400px;
+        font-size: 20px;
+        
+}
